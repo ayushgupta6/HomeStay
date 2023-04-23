@@ -2,9 +2,9 @@ I uses full-Stack MERN development.
 
 1. To run you have to install
 
-react-vite
+  react-vite
 
-tailwindcss
+  tailwindcss
 
 2. On api folder you have to install
 
